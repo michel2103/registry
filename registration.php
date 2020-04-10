@@ -37,7 +37,7 @@
             
                 <div>
                     <label for="password"> Confirm Password </label>
-                    <input type="password" name="password_2" placeholder="Insert your password confirmation here" required>
+                    <input type="password" name="password_2" placeholder="Insert your password confirmation" required>
                 </div>
 
                 <button type="submit" name="reg_user"> subscribe </button>
